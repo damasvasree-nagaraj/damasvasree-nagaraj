@@ -72,9 +72,9 @@ https://github.com/damasvasree
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damasvasree-nagaraj&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=damasvasree&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damasvasree-nagaraj&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damasvasree&theme=tokyonight"/>
 
 </p>
 
@@ -83,7 +83,7 @@ https://github.com/damasvasree
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=damasvasree-nagaraj&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=damasvasree&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ https://github.com/damasvasree
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=damasvasree-nagaraj&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=damasvasree&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
